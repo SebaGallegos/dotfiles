@@ -1,0 +1,17 @@
+# Configuraciones para ventana de Alacritty
+[window]
+  opacity = 0.8
+  decorations = "None"
+  decorations_theme_variant = "Dark"
+  startup_mode = "Maximized"
+
+# Configuraciones para la fuente de Alacritty
+[font]
+  # Se usa Intel One Mono como fuente
+  # https://github.com/intel/intel-one-mono
+  # sudo dnf install intel-one-mono-fonts -> para derivados de redhat
+  normal.family = "IntoneMono NFM"
+  bold.family = "IntoneMono NFM"
+  italic.family = "IntoneMono NFM"
+  bold_italic.family = "IntoneMono NFM"
+  size = 20
