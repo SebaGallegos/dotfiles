@@ -1,0 +1,5 @@
+_G.terminal = "kitty"
+_G.fileManager = "dolphin"
+_G.browser = "helium-browser"
+_G.browserIncognito = "helium-browser --incognito"
+_G.menu = "hyprlauncher"

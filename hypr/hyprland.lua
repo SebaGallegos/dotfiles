@@ -1,0 +1,6 @@
+require("monitors")
+require("programs")
+require("autostart")
+require("settings")
+require("rules")
+require("binds")
